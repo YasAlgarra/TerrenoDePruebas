@@ -1,0 +1,16 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\bin\Debug\net6.0-windows\Ejercicio_13.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\bin\Debug\net6.0-windows\Ejercicio_13.deps.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\bin\Debug\net6.0-windows\Ejercicio_13.runtimeconfig.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\bin\Debug\net6.0-windows\Ejercicio_13.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\bin\Debug\net6.0-windows\Ejercicio_13.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.AssemblyInfoInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.AssemblyInfo.cs
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\refint\Ejercicio_13.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\Ejercicio_13.genruntimeconfig.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 4\Ejercicio_13\Ejercicio_13\obj\Debug\net6.0-windows\ref\Ejercicio_13.dll

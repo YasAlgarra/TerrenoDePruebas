@@ -1,0 +1,10 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\bin\Debug\ejercicio_14.exe.config
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\bin\Debug\ejercicio_14.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\bin\Debug\ejercicio_14.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.csproj.AssemblyReference.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.Properties.Resources.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_14\ejercicio_14\obj\Debug\ejercicio_14.pdb

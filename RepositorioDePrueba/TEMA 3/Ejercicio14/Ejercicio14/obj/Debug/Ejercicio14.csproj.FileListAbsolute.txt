@@ -1,0 +1,19 @@
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csprojResolveAssemblyReference.cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.Properties.Resources.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.GenerateResource.Cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.Form1.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.pdb
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe.config
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.exe
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\bin\Debug\Ejercicio14.pdb
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.AssemblyReference.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.Form1.resources
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.Properties.Resources.resources
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.GenerateResource.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.csproj.CoreCompileInputs.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.exe
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio14\Ejercicio14\obj\Debug\Ejercicio14.pdb

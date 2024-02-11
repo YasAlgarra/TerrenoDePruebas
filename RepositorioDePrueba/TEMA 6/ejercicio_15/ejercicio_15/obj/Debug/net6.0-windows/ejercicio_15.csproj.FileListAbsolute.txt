@@ -1,0 +1,16 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\bin\Debug\net6.0-windows\ejercicio_15.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\bin\Debug\net6.0-windows\ejercicio_15.deps.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\bin\Debug\net6.0-windows\ejercicio_15.runtimeconfig.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\bin\Debug\net6.0-windows\ejercicio_15.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\bin\Debug\net6.0-windows\ejercicio_15.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.AssemblyInfoInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.AssemblyInfo.cs
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\refint\ejercicio_15.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ejercicio_15.genruntimeconfig.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 6\ejercicio_15\ejercicio_15\obj\Debug\net6.0-windows\ref\ejercicio_15.dll

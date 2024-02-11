@@ -1,0 +1,16 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.AssemblyInfo.cs
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\bin\Debug\net6.0-windows\ejercicio7.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\bin\Debug\net6.0-windows\ejercicio7.deps.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\bin\Debug\net6.0-windows\ejercicio7.runtimeconfig.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\bin\Debug\net6.0-windows\ejercicio7.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\bin\Debug\net6.0-windows\ejercicio7.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\refint\ejercicio7.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ejercicio7.genruntimeconfig.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio7\ejercicio7\obj\Debug\net6.0-windows\ref\ejercicio7.dll

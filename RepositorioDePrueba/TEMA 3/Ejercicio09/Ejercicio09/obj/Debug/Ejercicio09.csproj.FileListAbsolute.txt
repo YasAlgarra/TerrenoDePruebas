@@ -1,0 +1,29 @@
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.pdb
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csprojResolveAssemblyReference.cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Form1.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Properties.Resources.resources
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.GenerateResource.Cache
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.exe
+D:\Curso 2017-2018\Programacion\Distancia\Ejercicios\Hechos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.pdb
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.pdb
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.AssemblyReference.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Form1.resources
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Properties.Resources.resources
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.GenerateResource.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.CoreCompileInputs.cache
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.exe
+J:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.pdb
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe.config
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.exe
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\bin\Debug\Ejercicio09.pdb
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.AssemblyReference.cache
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Form1.resources
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.Properties.Resources.resources
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.GenerateResource.cache
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.exe
+G:\Mi unidad\Curso 2021-2022\Programación\Ejercicios Resueltos\Tema3\Ejercicio09\Ejercicio09\obj\Debug\Ejercicio09.pdb

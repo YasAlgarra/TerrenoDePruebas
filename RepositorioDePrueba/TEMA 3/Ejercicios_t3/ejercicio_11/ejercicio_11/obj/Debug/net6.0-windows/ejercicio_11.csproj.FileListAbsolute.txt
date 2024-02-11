@@ -1,0 +1,16 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\bin\Debug\net6.0-windows\ejercicio_11.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\bin\Debug\net6.0-windows\ejercicio_11.deps.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\bin\Debug\net6.0-windows\ejercicio_11.runtimeconfig.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\bin\Debug\net6.0-windows\ejercicio_11.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\bin\Debug\net6.0-windows\ejercicio_11.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.AssemblyInfoInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.AssemblyInfo.cs
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\refint\ejercicio_11.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ejercicio_11.genruntimeconfig.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 3\Ejercicios_t3\ejercicio_11\ejercicio_11\obj\Debug\net6.0-windows\ref\ejercicio_11.dll

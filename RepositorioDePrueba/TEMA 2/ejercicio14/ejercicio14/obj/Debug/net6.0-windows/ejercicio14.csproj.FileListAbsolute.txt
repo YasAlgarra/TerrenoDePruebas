@@ -1,0 +1,16 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\bin\Debug\net6.0-windows\ejercicio14.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\bin\Debug\net6.0-windows\ejercicio14.deps.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\bin\Debug\net6.0-windows\ejercicio14.runtimeconfig.json
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\bin\Debug\net6.0-windows\ejercicio14.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\bin\Debug\net6.0-windows\ejercicio14.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.AssemblyInfoInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.AssemblyInfo.cs
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\refint\ejercicio14.dll
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ejercicio14.genruntimeconfig.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 2\Ejercicios_t2\ejercicio14\ejercicio14\obj\Debug\net6.0-windows\ref\ejercicio14.dll
