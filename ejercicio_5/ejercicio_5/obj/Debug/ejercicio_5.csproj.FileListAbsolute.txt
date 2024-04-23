@@ -1,0 +1,13 @@
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.csproj.AssemblyReference.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.Form1.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.frmAnyadirAlumno.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.frmAnyadirCurso.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.frmAnyadirProfesor.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.Properties.Resources.resources
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.csproj.GenerateResource.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\bin\Debug\ejercicio_5.exe.config
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\bin\Debug\ejercicio_5.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\bin\Debug\ejercicio_5.pdb
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.exe
+C:\Users\Yas\Desktop\DAM\1º\PROGRAMACIÓN\TEMA 9\ejercicio_5\ejercicio_5\obj\Debug\ejercicio_5.pdb
